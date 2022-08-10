@@ -33,3 +33,5 @@ This is my work and record under openEuler Open Source Internship. (All the anno
 [总实习报告/Internship Report](开源实习报告.pdf)
 
 [PPT/Slides](openEuler%E5%BC%80%E6%BA%90%E5%AE%9E%E4%B9%A0.pptx)
+
+[演讲稿](%E5%88%86%E4%BA%AB%E4%BC%9A.md)
