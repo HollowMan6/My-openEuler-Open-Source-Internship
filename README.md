@@ -13,6 +13,8 @@
 
 ![](https://hollowman6.github.io/img/badges/openEuler.jpg)
 
+![](开源实习优秀实习生答辩会海报.png)
+
 这里是我的"openEuler 开源实习"活动记录与成果。
 
 This is my work and record under openEuler Open Source Internship. (All the announcements are in Chinese)
