@@ -11,7 +11,10 @@
 [![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/My-openEuler-Open-Source-Internship.svg)](../../archive/master.zip)
 
-![](https://hollowman6.github.io/img/badges/openEuler.jpg)
+<p align="center">
+<img src="https://hollowman6.github.io/img/badges/openEuler.jpg" height="500px"/>
+<img src="https://hollowman6.github.io/img/badges/openEuler-Excellent-Intern.jpg" height="500px" />
+</p>
 
 ![](开源实习优秀实习生答辩会海报.png)
 
