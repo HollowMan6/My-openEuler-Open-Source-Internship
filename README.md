@@ -18,7 +18,11 @@
 
 ![](开源实习优秀实习生答辩会海报.png)
 
+![](openEuler&openGauss社区在线实习进步奖.jpg)
+
 这里是我的"openEuler 开源实习"活动记录与成果。
+
+https://www.openeuler.org/zh/internship/
 
 This is my work and record under openEuler Open Source Internship. (All the announcements are in Chinese)
 
@@ -40,3 +44,9 @@ This is my work and record under openEuler Open Source Internship. (All the anno
 [PPT/Slides](openEuler%E5%BC%80%E6%BA%90%E5%AE%9E%E4%B9%A0.pptx)
 
 [演讲稿](%E5%88%86%E4%BA%AB%E4%BC%9A.md)
+
+[开源实习优秀实习生答辩会直播视频](https://www.bilibili.com/video/BV1fe4y1o766)
+
+[欧拉&高斯人才发展加速计划](https://edu.hicomputing.huawei.com/openeuler-opengauss-talent)
+
+[openEuler & openGauss 人才发展加速计划2022年度奖项](https://edu.hicomputing.huawei.com/openeuler-opengauss-talent/award)
